@@ -215,6 +215,16 @@ body {
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (max-width: 950px) {
+  .cursor {
+    display: none;
+  }
+  .cursor.exploreActive {
+  }
+  .cursor-text {
+    display: none;
+  }
+  .cursor.nav-hover {
+  }
   .slide {
     flex-direction: column;
     justify-content: center;

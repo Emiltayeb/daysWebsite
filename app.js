@@ -118,7 +118,7 @@ function animateSlides(){
   })
     // .addIndicators({
     //   colorStart: "white",
-    //   colorTrigger: "white",
+    //   colorTrigger: "white", 
     //   name: "page",
     //   indent: 200
     // })
